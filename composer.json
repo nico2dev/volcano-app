@@ -51,8 +51,8 @@
     "minimum-stability": "dev",
     "config": {
         "allow-plugins": {
-            "volcano/installer": true,
-            "composer/installers": true
+            "composer/installers": true,
+            "nico2dev/volcano-installer": true
         }
     }
 }

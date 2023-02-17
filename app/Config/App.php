@@ -3,7 +3,7 @@
  * Volcano - App
  *
  * @author  Nicolas Devoy
- * @email   nicolas@volcano-frramework.fr 
+ * @email   nicolas@volcano-framework.fr 
  * @version 1.0.0
  * @date    15 Fevrier 2023
  */
